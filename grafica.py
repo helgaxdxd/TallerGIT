@@ -3,6 +3,7 @@ import numpy as np
 
 plt.style.use('_mpl-gallery')
 plt.title('Esta es una gráfica')
+plt.axes(x, y)
 # make data:
 x = 0.5 + np.arange(8)
 y = [4.8, 5.5, 3.5, 4.6, 6.5, 6.6, 2.6, 3.0]
