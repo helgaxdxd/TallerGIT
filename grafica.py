@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 plt.style.use('_mpl-gallery')
+#Aqui agregamos el titulo para nuestra grafica s
 plt.title('Esta es una gráfica')
 
 # make data:
